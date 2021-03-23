@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Version 1</h1>
+    <h1>Version 2</h1>
 
     <script src="app.js"></script>
 </body>
